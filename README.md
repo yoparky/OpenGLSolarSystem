@@ -11,10 +11,10 @@
 This project is an OpenGL-based simulation of the Solar System. It demonstrates the use of OpenGL and GLUT for rendering a 3D scene with rotating planets around the Sun and also showcases basic lighting and texturing techniques.
 The relative size (except the Sun due to it's massive size!), rotational & orbital period of each planets, and distance are scaled to be relatively accurate.
 Lighting has been added to the Sun to simulate sunlight.
-Pressing 1 and 2 toggles the background stars and orbital paths respectively.
-Pressing O and P toggles between orthographic projection (maintains parallel lines, no sense of depth) and perspective projection (parallel lines skewed towards vanishing points, provides sense of depth)
-Pressing F freezes the animation
-Pressing ESC or Q quits the simulation
+- Pressing 1 and 2 toggles the background stars and orbital paths respectively.
+- Pressing O and P toggles between orthographic projection (maintains parallel lines, no sense of depth) and perspective projection (parallel lines skewed towards vanishing points, provides sense of depth)
+- Pressing F freezes the animation
+- Pressing ESC or Q quits the simulation
 
 ## System Requirements
 - C++ Compiler (e.g., GCC, Clang, MSVC)
@@ -45,5 +45,5 @@ Glew and GLFW.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowldegements
-Thanks to the developers of OpenGL, GLew, and GLFW
-Thanks to [NASA 3D Resources](https://nasa3d.arc.nasa.gov/images) for images and textures for the planets and the Sun 
+- Thanks to the developers of OpenGL, GLew, and GLFW
+- Thanks to [NASA 3D Resources](https://nasa3d.arc.nasa.gov/images) for images and textures for the planets and the Sun 
