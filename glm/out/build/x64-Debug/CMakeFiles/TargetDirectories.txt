@@ -1,0 +1,2 @@
+C:/Users/matda/Downloads/SampleWindows/SampleFreeGlut2019/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/matda/Downloads/SampleWindows/SampleFreeGlut2019/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

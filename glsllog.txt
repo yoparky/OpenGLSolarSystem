@@ -1,0 +1,4 @@
+
+0(29) : error C0151: EOF inside comment
+0(29) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
