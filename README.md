@@ -2,10 +2,10 @@
 
 ## Demo
 ### A Relative Model of the Solar System
-![General Demo](,/demo-gifs/SolarSystem01.gif)
+![General Demo](demo-gifs/SolarSystem01.gif)
 
 ### Simulation Controls Demo
-![Simulation Control](,/demo-gifs/SolarSystem02.gif)
+![Simulation Control](demo-gifs/SolarSystem02.gif)
 
 ## Description
 This project is an OpenGL-based simulation of the Solar System. It demonstrates the use of OpenGL and GLUT for rendering a 3D scene with rotating planets around the Sun and also showcases basic lighting and texturing techniques.
